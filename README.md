@@ -1,4 +1,4 @@
-````markdown
+
 # Employee Management Application
 
 ## Description
@@ -40,4 +40,3 @@ The project can be compiled and executed using any C++ compiler. Simply compile 
 1. This application is designed for console-based interaction.
 2. Ensure proper inclusion of necessary header files and libraries during compilation.
 3. The application may need modifications or adjustments based on specific requirements or platform differences.
-````
