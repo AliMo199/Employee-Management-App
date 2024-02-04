@@ -4,6 +4,8 @@
 ## Description
 This project is an Employee Management Application designed to help manage employee information, benefits, reporting, and searching functionalities. It provides a menu-driven interface for users to navigate through various services offered by the application.
 
+![UML design](https://imgur.com/a/CZe5wNe)
+
 ## Features
 1. **Employee Information Management:** Allows users to add new employees, edit existing employee details, and delete employees from the system.
 2. **Benefits Modification:** Provides functionality to modify employee benefits.
